@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid gap-8 md:grid-cols-4">
           <div>
             <h3 className="text-white font-semibold">About</h3>
-            <p className="mt-3 text-white/70 text-sm">SocialShield Simulator is an AI-powered platform for social engineering awareness and training.</p>
+            <p className="mt-3 text-white/70 text-sm">PhishLab is an AI-powered platform for social engineering awareness and training.</p>
           </div>
           <div>
             <h3 className="text-white font-semibold">Resources</h3>
@@ -21,8 +21,8 @@ export default function Footer() {
           <div>
             <h3 className="text-white font-semibold">Contact</h3>
             <ul className="mt-3 space-y-2 text-sm text-white/70">
-              <li>Email: hello@socialshield.ai</li>
-              <li>Support: support@socialshield.ai</li>
+              <li>Email: hello@phishlab.ai</li>
+              <li>Support: support@phishlab.ai</li>
             </ul>
           </div>
           <div>
@@ -35,7 +35,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-10 flex items-center justify-between gap-4">
-          <p className="text-white/60 text-sm">© 2025 SocialShield Simulator</p>
+          <p className="text-white/60 text-sm">© 2025 PhishLab</p>
           <div className="flex items-center gap-4 text-white/70">
             <a href="#" aria-label="LinkedIn" className="hover:text-white"><Linkedin className="h-5 w-5" /></a>
             <a href="#" aria-label="GitHub" className="hover:text-white"><Github className="h-5 w-5" /></a>

@@ -6,7 +6,7 @@ const testimonials = [
     name: 'Ava Chen',
     role: 'CISO, SecureTech Inc.',
     quote:
-      'Our team’s phishing awareness improved by 75% after using SocialShield. The simulations feel real, and the training sticks.',
+      'Our team’s phishing awareness improved by 75% after using PhishLab. The simulations feel real, and the training sticks.',
     avatar: 'https://i.pravatar.cc/100?img=5',
   },
   {

@@ -20,7 +20,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between px-4 py-3 sm:px-6">
             <a href="#home" className="flex items-center gap-2 focus:outline-none focus:ring-2 focus:ring-cyan-300 rounded">
               <ShieldCheck className="h-6 w-6 text-cyan-300" aria-hidden="true" />
-              <span className="text-white text-lg font-semibold tracking-tight">SocialShield</span>
+              <span className="text-white text-lg font-semibold tracking-tight">PhishLab</span>
             </a>
             <nav className="hidden md:flex items-center gap-8">
               {navItems.map((item) => (
